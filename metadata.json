@@ -1,0 +1,6 @@
+{
+  "name": "NOVA ARCHIVE",
+  "description": "An immersive digital archive exploring the Space Age (1957–1975).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
